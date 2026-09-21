@@ -18,8 +18,6 @@
 	"detect_overhang_wall": "0",
 	"resolution": "0.012",
 	"elefant_foot_compensation": "0.15",
-	"percise_outer_wall": "1",
-	"percise_z_height": "0.2",
 	"enable_overhang_speed": "1",
 	"enable_prime_tower": "0",
 	"enable_support": "0",

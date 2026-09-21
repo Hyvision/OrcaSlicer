@@ -6,7 +6,7 @@
 	"instantiation": "false",
 	"default_filament_colour": "",
 	"filament_type": [
-		"ABS-A100"
+		"ABS"
 	],
 	"filament_vendor": [
 		"Cubicon"
